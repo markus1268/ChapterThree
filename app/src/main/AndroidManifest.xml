@@ -19,6 +19,10 @@
         <activity
             android:name=".NextActivity"
             android:label="@string/title_activity_next"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TabbedActivity"
+            android:label="@string/title_activity_tabbed"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
